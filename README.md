@@ -1,2 +1,2 @@
 # Message Passing Interface (MPI)
-Tugas 4 Sistem Paralel dan Terdistribusi
+Tugas 5 Sistem Paralel dan Terdistribusi
